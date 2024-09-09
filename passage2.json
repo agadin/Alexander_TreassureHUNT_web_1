@@ -1,0 +1,65 @@
+{
+  "passage": "It is not easy to account for the power of Christopher Marlowe's plays. They are unevenly written, not always well constructed, and some survive only in mangled and unreliable texts. Despite their faults, his plays capture the imagination. An obscure, even dark, energy is released in them -in the victories of Tamburlaine, in Faustus's encounter with the demonic, in the irreverence of Barabas, and in the humiliation of Edward. At bottom, this energy is religious. Elizabethan playwrights were not allowed to handle sacred subjects, but their greatest plays often depend on the feeling of a sacred power gone dark. Marlowe's plays of power and helplessness are filled with the energy of the sacred and its desecration. Marlowe's talent lies both in his depiction of religious reverence and in its destruction. Marlowe was apparently destined for the Church. Born and brought up in Canterbury, the ancient spiritual capital of England, he went up to Corpus Christi College, Cambridge, on a scholarship designed to educate boys for the ministry. He got his MA, but instead of taking holy orders began writing plays for the London theaters, disreputable places—at least in the eyes of the godly—which were under constant attack as dens of iniquity. Marlowe's association with learning, however, continued to be important to him: as late as 1592, when he was deported from Holland for his part in a counterfeiting scheme, he was still \"by his profession [i.e., by his own account] a scholar.\" But his learning was turned to distinctly anti-religious ends. He translated Ovid's Amores, erotic poems that verged on pornography in Elizabethan eyes. They were published surreptitiously as All Ovid's Elegies, the title emphasizing the fact that they were unexpurgated. His learning also bolstered his dangerous reputation for atheism. The sometime Cambridge don, Gabriel Harvey, called him \"a Lucian,\" associating him with the Greek satirist notorious for mocking the gods. His religious views were under investigation at the time of his violent death in 1593. During those investigations, one Richard Cholmeley claimed to have been \"converted\" by him and alleged that \"Marlowe is able to show more sound religious reasons for atheism than any divine in England is able to give to prove divinity and that Marlowe told him that he hath read the atheist lecture to Sir Walter Ralegh and others.\"This irreligious heterodoxy has obvious relevance to the plays. Dr. Faustus, having \"commenced\" and been \"graced\" like a Cambridge graduate, is a scholar who punningly bids \"Divinity, adieu!\" and makes a pact with the devil. Machevil, in the prologue to the Jew of Malta has to stop himself from delivering an atheist lecture to the audience. More important, Marlowe's learning gets into the very fabric of his astonishing poetry. Consider his most famous lines, from Faustus's address to the ghost of Helen of Troy: \"Was this the face that launched a thousand ships / And burnt the topless towers of Illium? / Sweet Helen, make me immortal with a kiss. / Her lips sucks forth my soul. See where it flies! / Come, Helen, come, give me my soul again. / Here will I dwell, for heaven be in these lips, / And all is dross that is not Helena.\" This hymn of sexual desire conceals learned ironies in its dense classical allusions. The opening questions come from Lucian's Dialogues of the Dead, in which a visitor to the underworld sees Helen's no longer recognizable skull. Here, though, the lips of the dead non-Christian are given all the divinity Marlowe can recognize, as they alone represent heaven to Faustus.",
+  "questions": [
+    {
+      "question": "Based on the fourth paragraph of the passage, with which of the following statements would the author be most likely to agree?",
+      "options": [
+        "Option A: Counterfeiting was prohibited by the religions of Marlowe's time.",
+        "Option B: Elizabethan religions were intolerant of sexually-themed material.",
+        "Option C: Ovid's poems had not been translated from the original Latin (6%) before Marlowe.",
+        "Option D: Elizabethan scholars did not waste time translating poetry."
+      ],
+      "correct": "Option B: Elizabethan religions were intolerant of sexually-themed material."
+    },
+    {
+      "question": "The answer to which of the following questions would be most useful in determining the validity of the author's analysis of Christopher Marlowe's plays?",
+      "options": [
+        "Option A: Were any of Marlowe's playwright contemporaries also atheists?",
+        "Option B: How did audiences interpret Marlowe's plays?",
+        "Option C: How many of Marlowe's plays depict religion favorably?",
+        "Option D: What was the dominant religion in Elizabethan England?"
+      ],
+      "correct": "Option C: How many of Marlowe's plays depict religion favorably?"
+    },
+    {
+      "question": "Which of the following discoveries, if genuine, would most weaken the author's argument?",
+      "options": [
+        "Option A: Marlowe converted to Christianity on his deathbed.",
+        "Option B: Marlowe believed that religious belief needed to be challenged to become stronger",
+        "Option C: The topics of many of Marlowe's plays were determined by his patrons.",
+        "Option D: Atheism was a major topic of discussion during Marlowe's time."
+      ],
+      "correct": "Option B: Marlowe believed that religious belief needed to be challenged to become stronger"
+    },
+    {
+      "question": "The author's main purpose in surveying Marlowe's work is to suggest that Marlowe:",
+      "options": [
+        "Option A: was an atheist.",
+        "Option B: was not a well-regarded playwright.",
+        "Option C: considered himself to be a scholar.",
+        "Option D: used his education to scrutinize religion."
+      ],
+      "correct": "Option D: used his education to scrutinize religion."
+    },
+    {
+      "question": "The author can best be viewed as an advocate of:",
+      "options": [
+        "Option A: analyzing a play in light of information about its author.",
+        "Option B: taking a play's social impact into account when evaluating the play.",
+        "Option C: assuming that plays reflect the values of the time they were first staged.",
+        "Option D: composing plays with religious themes."
+      ],
+      "correct": "Option A: analyzing a play in light of information about its author."
+    },
+    {
+      "question": "Which of the following plots for a play would the author of the passage be most likely to consider similar to Marlowe's plays?",
+      "options": [
+        "Option A: A scholar whose career is checked because he believes in a different religion from his colleagues",
+        "Option B: A woman who does not believe in God who lives an otherwise adventurous life",
+        "Option C: A dying man considers the various scholarly theories of the afterlife before accepting that none exists",
+        "Option D: A young girl who has to cope with the grief over her father's death before her First Communion"
+      ],
+      "correct": "Option C: A dying man considers the various scholarly theories of the afterlife before accepting that none exists"
+    }
+  ]
+}

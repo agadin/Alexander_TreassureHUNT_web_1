@@ -32,7 +32,7 @@ if st.session_state.authenticated:
     if 'current_file' not in st.session_state:
         st.session_state.current_file = 1
     if 'current_question' not in st.session_state:
-        st.session_state.current_question = 0
+        st.session_state.current_question = -1
     if 'score' not in st.session_state:
         st.session_state.score = 0
     if 'attempted' not in st.session_state:
@@ -110,8 +110,7 @@ if st.session_state.authenticated:
                 print(st.session_state.wrong)
             
             next_question()
-            st.experimental_rerun()
-    st.write("**Ignore this error:**")
+            st.rerun()
     
     if not load_json(st.session_state.current_file):
         final_score = calculate_final_score()

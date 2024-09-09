@@ -111,7 +111,7 @@ if st.session_state.authenticated:
             
             next_question()
             st.experimental_rerun()
-    
+    st.write("**Ignore this error:**")
     
     if not load_json(st.session_state.current_file):
         final_score = calculate_final_score()

@@ -36,7 +36,7 @@ if "init_done" not in st.session_state:
 # ────────────────────────────────────────────────────────────────────────────────
 #  Authentication helpers
 # ────────────────────────────────────────────────────────────────────────────────
-PASSWORD = "softtissue"  # change as required
+PASSWORD = st.secrets["auth"]["password"]
 
 
 def check_password() -> None:
@@ -138,7 +138,7 @@ if not st.session_state.authenticated:
 if st.session_state.finished:
     score = final_score()
     st.markdown(f"## Your final score is: {score}")
-    st.markdown("**Behind the poster where the walls grow bare,The old Instron room holds secrets rare.**" if score > 127 else "**Refresh and try again!**")
+    st.markdown(st.secrets["auth"]["pass_message"] if score > 127 else "**Refresh and try again!**")
     st.stop()
 
 # 3. Main quiz interface
